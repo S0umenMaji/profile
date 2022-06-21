@@ -28,16 +28,16 @@ I learn everyday about how to use the technology in the best way and I feel very
  <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
 
-<img src="https://github.com/The-bong-stuff/logos/blob/main/s-removebg-preview.png?raw=true" height="60" width="200">
+<img src="https://github.com/CodingBuddyofficial/logos/blob/main/s-removebg-preview.png?raw=true" height="60" width="200">
 </div>
 
 <br >
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=the-bong-stuff&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=CodingBuddyofficial&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=the-bong-stuff&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodingBuddyofficial&theme=dark" width="45%" >
 
 <br>
 
